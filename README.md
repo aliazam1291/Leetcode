@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aliazam1291/Leetcode/tree/master/0001-two-sum) |
 | [1813-maximum-erasure-value](https://github.com/aliazam1291/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aliazam1291/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aliazam1291/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aliazam1291/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Math
 |  |
 | ------- |
@@ -48,4 +50,8 @@
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aliazam1291/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aliazam1291/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 <!---LeetCode Topics End-->
