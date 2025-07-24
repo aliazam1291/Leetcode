@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/aliazam1291/Leetcode/tree/master/0001-two-sum) |
 | [1813-maximum-erasure-value](https://github.com/aliazam1291/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aliazam1291/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/aliazam1291/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +55,16 @@
 |  |
 | ------- |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aliazam1291/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/aliazam1291/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Tree
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/aliazam1291/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2400-minimum-score-after-removals-on-a-tree](https://github.com/aliazam1291/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 <!---LeetCode Topics End-->
