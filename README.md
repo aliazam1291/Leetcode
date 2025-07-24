@@ -22,6 +22,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aliazam1291/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aliazam1291/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3396-valid-word](https://github.com/aliazam1291/Leetcode/tree/master/3396-valid-word) |
 ## Dynamic Programming
 |  |
 | ------- |
