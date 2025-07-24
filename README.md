@@ -31,10 +31,12 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/aliazam1291/Leetcode/tree/master/0007-reverse-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aliazam1291/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aliazam1291/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aliazam1291/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
