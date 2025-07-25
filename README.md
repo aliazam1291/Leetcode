@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aliazam1291/Leetcode/tree/master/0001-two-sum) |
 | [1813-maximum-erasure-value](https://github.com/aliazam1291/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/aliazam1291/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aliazam1291/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aliazam1291/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Hash Table
@@ -13,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aliazam1291/Leetcode/tree/master/0001-two-sum) |
 | [1813-maximum-erasure-value](https://github.com/aliazam1291/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/aliazam1291/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +24,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aliazam1291/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aliazam1291/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/aliazam1291/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/aliazam1291/Leetcode/tree/master/3396-valid-word) |
 ## Dynamic Programming
 |  |
@@ -70,4 +73,12 @@
 |  |
 | ------- |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aliazam1291/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+## Trie
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/aliazam1291/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/aliazam1291/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
