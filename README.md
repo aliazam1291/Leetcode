@@ -9,12 +9,14 @@
 | [2079-delete-duplicate-folders-in-system](https://github.com/aliazam1291/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aliazam1291/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aliazam1291/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aliazam1291/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aliazam1291/Leetcode/tree/master/0001-two-sum) |
 | [1813-maximum-erasure-value](https://github.com/aliazam1291/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/aliazam1291/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aliazam1291/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aliazam1291/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aliazam1291/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
