@@ -10,6 +10,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aliazam1291/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aliazam1291/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aliazam1291/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aliazam1291/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aliazam1291/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aliazam1291/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aliazam1291/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aliazam1291/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Math
 |  |
 | ------- |
