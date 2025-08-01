@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aliazam1291/Leetcode/tree/master/0001-two-sum) |
+| [0118-pascals-triangle](https://github.com/aliazam1291/Leetcode/tree/master/0118-pascals-triangle) |
 | [1813-maximum-erasure-value](https://github.com/aliazam1291/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/aliazam1291/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aliazam1291/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aliazam1291/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/aliazam1291/Leetcode/tree/master/0118-pascals-triangle) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aliazam1291/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aliazam1291/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Math
