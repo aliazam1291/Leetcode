@@ -31,6 +31,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aliazam1291/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/aliazam1291/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/aliazam1291/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aliazam1291/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/aliazam1291/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/aliazam1291/Leetcode/tree/master/3396-valid-word) |
