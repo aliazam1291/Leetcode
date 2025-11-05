@@ -32,6 +32,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aliazam1291/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/aliazam1291/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/aliazam1291/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/aliazam1291/Leetcode/tree/master/0010-regular-expression-matching) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aliazam1291/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/aliazam1291/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3396-valid-word](https://github.com/aliazam1291/Leetcode/tree/master/3396-valid-word) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aliazam1291/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/aliazam1291/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/aliazam1291/Leetcode/tree/master/0118-pascals-triangle) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/aliazam1291/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aliazam1291/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -55,6 +57,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/aliazam1291/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/aliazam1291/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Sliding Window
 |  |
