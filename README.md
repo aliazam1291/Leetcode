@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aliazam1291/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/aliazam1291/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aliazam1291/Leetcode/tree/master/0011-container-with-most-water) |
 | [0118-pascals-triangle](https://github.com/aliazam1291/Leetcode/tree/master/0118-pascals-triangle) |
 | [1813-maximum-erasure-value](https://github.com/aliazam1291/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -114,5 +115,10 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aliazam1291/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aliazam1291/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aliazam1291/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
