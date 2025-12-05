@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/aliazam1291/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aliazam1291/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aliazam1291/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aliazam1291/Leetcode/tree/master/0015-3sum) |
 | [0118-pascals-triangle](https://github.com/aliazam1291/Leetcode/tree/master/0118-pascals-triangle) |
 | [1813-maximum-erasure-value](https://github.com/aliazam1291/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/aliazam1291/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aliazam1291/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/aliazam1291/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/aliazam1291/Leetcode/tree/master/0015-3sum) |
 ## String
 |  |
 | ------- |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aliazam1291/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/aliazam1291/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
